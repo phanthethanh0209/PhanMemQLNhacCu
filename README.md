@@ -30,4 +30,4 @@ CRUD: FORM NHÀ CUNG CẤP, FORM KHÁCH HÀNG, FORM NHÂN VIÊN, FORM LOẠI S�
 
 #### Chức năng đảm nhận:
 - Thiết kế giao diện, menu
-- CRUD: Hóa đơn, thương hiệu, nhân viên, khách hàng, khuyến mãi
+- Form Hóa đơn, thương hiệu, nhân viên, khách hàng, khuyến mãi
