@@ -1,6 +1,7 @@
 # Phần mềm quản lý cửa hàng nhạc cụ
 #### Công nghệ sử dụng:
-- Java, Java Swing, SQL Server
+- Java, Java Swing, SQL Server  
+#### Thực hiện: Nhóm 4 thành viên
 #### Mô tả chức năng chính:
 FORM SẢN PHẨM
 - Xem danh sách các sản phẩm của cửa hàng và Xem chi tiết 1 sản phẩm trong danh sách đó
